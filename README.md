@@ -1,4 +1,4 @@
-# 2024-10-29-conditions
+# 2024-10-24-conditions
 
 Exercices on if statements, prompt, confirm and variables.
 
